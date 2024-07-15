@@ -1,6 +1,5 @@
 # *👋 Hi, I’m @overtoneoverovertone
- 
-##**👀 I’m interested in reading books. I hate coding.
+ ##**👀 I’m interested in reading books. I hate coding.
  ##-**🌱 I’m currently learning driving.
  ##-**💞️ I’m looking to collaborate on riding a bicycle.
  #-*📫 How to reach me ...maybe github only these days
