@@ -1,7 +1,3 @@
-Certainly! Here's a polished version of your GitHub readme section:
-
----
-
 # 👋 Hi, I’m @overtoneoverovertone
 
 ## 👀 About Me
@@ -25,7 +21,7 @@ Certainly! Here's a polished version of your GitHub readme section:
 
 ---
 
-This layout should make your GitHub readme more organized and appealing!
+
 <!---
 overtoneoverovertone/overtoneoverovertone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
